@@ -495,5 +495,12 @@
 		"source": "https://guilded.gg/",
 		"type": "app",
 		"listed": true
+	},
+	{
+		"title": "Invidious",
+		"tags": ["stream"],
+		"source": "https://redirect.invidious.io/",
+		"type": "app",
+		"listed": true
 	}
 ]
