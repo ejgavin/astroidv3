@@ -3,7 +3,7 @@
 <h1 align="center">AstroidV3</h1>
 
 Astroid is a proxy that supports now.gg. It uses Ultraviolet, a highly sophisticated web proxy for evading internet censorship and accessing websites in a controlled sandbox!
-
+ 
 ## Deployment
 
 [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy?template=https://github.com/VyperGroup/astroidv3)
